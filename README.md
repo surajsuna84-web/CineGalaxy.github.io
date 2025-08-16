@@ -1,5 +1,3 @@
-# CineGalaxy.github.io
-Download latest movie here.
 <!DOCTYPE html>
 <html lang="hi">
 <head>
